@@ -174,6 +174,14 @@ body {
     border: solid blue;
     margin-left: auto;
     margin-right: auto;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align:center
+}
+
+.nadpis_tabulka{
+    text-align: center;
+    color: blue;
 }
 
 #zdroj {
